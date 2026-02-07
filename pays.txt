@@ -2,3 +2,5 @@
 # on commence avec les pays d'afrique
 RDC
 Benin
+Cameroun
+

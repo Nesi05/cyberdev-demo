@@ -3,9 +3,12 @@ Dans ce fichier, voici le nom de tous ceux qui vont contribuer au dévéloppemen
 
 Nezhy Mpanzu
 Nezhy Mpanzu 2 (Mon deuxieme github)
+
 Tresor Yuma CHECK
 voici ma contribution : Dan Nkolo
 Stephane
+
+Victoire myinda (développeur mobile)
 
 
 
