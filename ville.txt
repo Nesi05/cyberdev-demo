@@ -3,3 +3,6 @@ voici les villes du congo:
 - Matadi
 - Goma
 - Mbandaka
+
+Moanda
+Kolwezi
