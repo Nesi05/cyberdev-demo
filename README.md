@@ -7,6 +7,7 @@ Nezhy Mpanzu 2 (Mon deuxieme github)
 Tresor Yuma CHECK
 voici ma contribution : Dan Nkolo
 Stephane
+informyi(ma nouvelle contribution )
 
 Victoire myinda (développeur mobile)
 
